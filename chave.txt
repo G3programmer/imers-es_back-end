@@ -1,0 +1,4 @@
+AIzaSyCADOtGUZCf1n9dvBi4c9UzlZitnUit3bU
+mongoDB = 9QRT5tJ3pel1NIef
+
+mongodb+srv://g3hunterbugs:9QRT5tJ3pel1NIef@cluster0.34x1y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
